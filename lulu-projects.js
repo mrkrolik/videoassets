@@ -1,5 +1,5 @@
 
-    var projects = {
+    window.projects = {
         1: {
             name: 'Юлия & Николай',
             organizator: 'Лусина',
