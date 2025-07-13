@@ -1,5 +1,5 @@
 
-    const projects = {
+    var projects = {
         1: {
             name: 'Юлия & Николай',
             organizator: 'Лусина',
