@@ -2178,5 +2178,106 @@
                 pagePhotos: 'nophotos',
             }
         },
+        90: {
+            name: 'Полина & Иван',
+            organizator: 'Влада',
+            date: '13/09/25',
+            team: '18 человек',
+            guests: '60 гостей',
+            time: '5 месяцев',
+            type: 'cвадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild6432-3934-4436-b539-653265343431/p1.png',
+                isPhotoOrVideo: 'video',
+                photoOrVideo: ['https://static.tildacdn.com/tild3866-3637-4233-b664-653732363365/p2.png', 'Вackstage (0:11)', "https://github.com/mrkrolik/videoassets/raw/refs/heads/main/reels%20%D0%B2%20%D1%87%D0%B1%202.mov"],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3736-3139-4336-b361-616433383634/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3535-6661-4965-b637-353961326534/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3762-3536-4930-b334-633333643933/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6665-3162-4237-b436-653334313763/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3130-3935-4137-b662-333038613332/5.png', 'big'],
+                    6: ['https://static.tildacdn.com/tild3763-6639-4664-b764-333464363239/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild6433-3233-4832-b336-626161333638/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild3565-3034-4063-b162-333163643565/8.png', 'small'],
+                },
+            }
+        },
+
+        91: {
+            name: 'Анна & Эдуард',
+            organizator: 'Влада',
+            date: '18/06/25',
+            team: '13 человек',
+            guests: '55 гостей',
+            time: '6 месяцев',
+            type: 'cвадьба',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3237-3464-4335-a536-363662663363/or1.png',
+                isPhotoOrVideo: 'video',
+                photoOrVideo: ['https://static.tildacdn.com/tild6135-3034-4437-b539-333930336631/or2.png', 'Вackstage (0:18)', "https://github.com/mrkrolik/videoassets/raw/refs/heads/main/reels%20%D0%B2%20%D1%87%D0%B1.mp4"],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3062-6432-4031-a336-626563366465/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild3964-3638-4632-b435-616539376333/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6434-3733-4432-b432-306661663264/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3536-3436-4364-a662-373166666237/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3761-6639-4762-b235-373966346532/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild6231-6530-4431-a539-366139396663/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3238-6265-4333-a165-663866643536/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6631-3462-4565-b865-343733616636/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3430-3034-4133-b063-613965663161/9.png', 'small'],
+                },
+            }
+        },
+
+        92: {
+            name: 'День рождения Ольга',
+            organizator: 'Влада',
+            date: '31/01/26',
+            team: '60 человек',
+            guests: '65 гостей',
+            time: '4 месяца',
+            type: 'частный',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3361-3337-4564-b961-373461366330/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild3034-6538-4137-a662-633664633966/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3737-3861-4131-a536-616533373233/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6136-3861-4131-b362-303233333761/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild6365-3666-4365-b030-623238373934/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild6663-6464-4631-b432-646239323937/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild3536-3166-4332-b031-363630393034/5.png', 'small'],
+                    6: ['https://static.tildacdn.com/tild3434-6137-4464-b762-303730393066/6.png', 'small'],
+                    7: ['https://static.tildacdn.com/tild3335-3239-4061-b766-626633343331/7.png', 'small'],
+                    8: ['https://static.tildacdn.com/tild6332-3237-4565-b639-313963373165/8.png', 'small'],
+                    9: ['https://static.tildacdn.com/tild3930-3562-4663-a635-613437383538/9.png', 'small'],
+                },
+            }
+        },
+
+        93: {
+            name: 'День рождения Алёна',
+            organizator: 'Влада',
+            date: '17/02/26',
+            team: '10 человек',
+            guests: '25 гостей',
+            time: '1 месяц',
+            type: 'частный',
+            photos: {
+                mainCover: 'https://static.tildacdn.com/tild3331-6565-4864-a665-633532313234/or1.png',
+                isPhotoOrVideo: 'photo',
+                photoOrVideo: ['https://static.tildacdn.com/tild6233-3834-4635-b036-383764323831/or2.png', '', ""],
+                pagePhotos: {
+                    1: ['https://static.tildacdn.com/tild3532-3264-4865-b337-663862393434/1.png', 'small'],
+                    2: ['https://static.tildacdn.com/tild6564-3362-4462-a236-653262363461/2.png', 'small'],
+                    3: ['https://static.tildacdn.com/tild3364-3162-4530-b835-643838616436/3.png', 'small'],
+                    4: ['https://static.tildacdn.com/tild3461-6161-4962-b931-326566396663/4.png', 'small'],
+                    5: ['https://static.tildacdn.com/tild6138-3032-4130-a532-366333613339/5.png', 'big'],
+                    6: ['https://static.tildacdn.com/tild3835-3038-4264-b966-393862363265/6.png', 'big'],
+                    7: ['https://static.tildacdn.com/tild3761-6466-4731-b838-346532303135/7.png', 'small'],
+                },
+            }
+        },
         
     };
+
